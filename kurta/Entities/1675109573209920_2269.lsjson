@@ -1,0 +1,38 @@
+{
+    "1644921001497200:1030473": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675109573209920:2269": {
+        "IResourceController": {
+            "name": "VertexDistanceController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1644921001497200:1030473",
+            "fileId": "1675109573210035:2382",
+            "publicId": "1675109573210166:2471",
+            "expected_hash": "5fa2f0ced4b484b6cd99244a1ce44b70"
+        },
+        "IResourceManager": {
+            "uid": "1644921001497200:1030473",
+            "name": "Files/File_1675109573210035_2382.js",
+            "flags": 1
+        }
+    },
+    "1675109573210035:2382": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210035_2382.js"
+        }
+    },
+    "1675109573210166:2471": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/VertexDistanceController.js",
+                "hash": "5fa2f0ced4b484b6cd99244a1ce44b70"
+            }
+        }
+    }
+}

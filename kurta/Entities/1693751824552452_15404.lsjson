@@ -1,0 +1,39 @@
+{
+    "1693751824282753:15383": {
+        "IResourceController": {
+            "public": {
+                "path": "Cotton_Fabric.lsmat",
+                "hash": "701b77aa54a596a0484a63fe5cc321b6"
+            }
+        }
+    },
+    "1693751824549417:15403": {
+        "IFileManager": {
+            "path": "Files/File_1693751824549417_15403"
+        }
+    },
+    "1693751824552452:15404": {
+        "IResourceController": {
+            "name": "Cotton_Fabric",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1693751824552465:15405",
+            "fileId": "1693751824549417:15403",
+            "originalId": "1693751824599412:15409",
+            "publicId": "1693751824282753:15383",
+            "expected_hash": "4be0e65aeee64e67b9c7ab6dcc121b3f"
+        },
+        "IResourceManager": {
+            "uid": "1693751824552465:15405",
+            "name": "Files/File_1693751824549417_15403",
+            "flags": 1
+        }
+    },
+    "1693751824599412:15409": {
+        "IFileManager": {
+            "path": "Files/File_1693751824599412_15409.lsmat"
+        }
+    }
+}

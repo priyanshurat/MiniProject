@@ -1,0 +1,39 @@
+{
+    "1675109573209927:2303": {
+        "IResourceController": {
+            "name": "Dress",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648859761493968:162708",
+            "fileId": "1675109573210115:2438",
+            "originalId": "1675109573210116:2439",
+            "publicId": "1675109573210177:2506",
+            "expected_hash": "5e5f62f4484d2bc576b12075c3545c86"
+        },
+        "IResourceManager": {
+            "uid": "1648859761493968:162708",
+            "name": "Files/File_1675109573210115_2438",
+            "flags": 1
+        }
+    },
+    "1675109573210115:2438": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210115_2438"
+        }
+    },
+    "1675109573210116:2439": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210116_2439.lsmat"
+        }
+    },
+    "1675109573210177:2506": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Dress.lsmat",
+                "hash": "40ee0af39751d8933ee7e849a6b21817"
+            }
+        }
+    }
+}

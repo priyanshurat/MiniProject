@@ -1,0 +1,79 @@
+{
+    "1693751823565048:15303": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/cotton_albedo.png",
+                "hash": "3e96b215a73e3950492e04dfdb21215d"
+            }
+        }
+    },
+    "1693751823577055:15304": {
+        "IFileManager": {
+            "path": "Files/File_1693751823577055_15304.pvr"
+        }
+    },
+    "1693751823588473:15305": {
+        "IResourceController": {
+            "name": "cotton_albedo",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1693751823589564:15306",
+            "fileId": "1693751823577055:15304",
+            "originalId": "1693751823591112:15311",
+            "publicId": "1693751823565048:15303",
+            "expected_hash": "7997a5e0f83a50e33400497eb065dce9",
+            "additional": {
+                "originHash": "3e96b215a73e3950492e04dfdb21215d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1693751823589564:15306",
+            "name": "Files/File_1693751823577055_15304.png",
+            "flags": 1
+        }
+    },
+    "1693751823589564:15306": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3e96b215a73e3950492e04dfdb21215d"
+                    },
+                    "v": "1693751896932494:32984"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "392442",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "403132",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1693751823608207:15312"
+        }
+    },
+    "1693751823591112:15311": {
+        "IFileManager": {
+            "path": "Files/File_1693751823591112_15311.png"
+        }
+    },
+    "1693751823608207:15312": {
+        "IFileManager": {
+            "path": "Files/File_1693751823608207_15312.png"
+        }
+    },
+    "1693751896932494:32984": {
+        "IFileManager": {
+            "path": "Files/File_1693751896932494_32984.pvr"
+        }
+    }
+}

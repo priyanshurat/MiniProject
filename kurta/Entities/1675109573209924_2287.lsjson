@@ -1,0 +1,24 @@
+{
+    "1675109573209924:2287": {
+        "IResourceController": {
+            "name": "Full Body Mesh Winter Dress LP",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648169443542275:1055993",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File3226.extmesh"
+                ],
+                "externalBodyMapFileID": "1675109573210084:2414",
+                "externalBodyMapFilepath": "Files/File3226.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1648169443542275:1055993",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

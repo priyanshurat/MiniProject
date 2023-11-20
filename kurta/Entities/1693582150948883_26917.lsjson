@@ -1,0 +1,33 @@
+{
+    "1693582150932937:26916": {
+        "IFileManager": {
+            "path": "Files/File_1693582150932937_26916.usdc"
+        }
+    },
+    "1693582150948883:26917": {
+        "IResourceController": {
+            "name": "Shalwar Kameez 11",
+            "type": 7,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1693582150948918:26918",
+            "fileId": "1693582150932937:26916",
+            "publicId": "1693582150957441:26925",
+            "expected_hash": "ce19158216506850a5c5b4a34600fd5d"
+        },
+        "IResourceManager": {
+            "uid": "1693582150948918:26918",
+            "name": "Files/File_1693582150932937_26916.usdc",
+            "flags": 1
+        }
+    },
+    "1693582150957441:26925": {
+        "IResourceController": {
+            "public": {
+                "path": "shalwar-kameez-pakistani-dress-kurta-qamees/source/Shalwar Kamees/Shalwar Kamees/Shalwar Kameez 11.usdc",
+                "hash": "ce19158216506850a5c5b4a34600fd5d"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1675109573209924:2290": {
+        "IResourceController": {
+            "name": "trench_coat_middle",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648169541317466:1093275",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File3234.extmesh"
+                ],
+                "externalBodyMapFileID": "1675109573210089:2418",
+                "externalBodyMapFilepath": "Files/File3234.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1648169541317466:1093275",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

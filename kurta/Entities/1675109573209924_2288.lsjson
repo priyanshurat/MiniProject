@@ -1,0 +1,138 @@
+{
+    "1648169443898999:1056170": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "47652",
+                "compressedSize": "33649",
+                "extension": "mesh",
+                "originalRAM": "47652",
+                "originalSize": "33649",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "3",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture1"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675109573210087:2416"
+        }
+    },
+    "1675109573209924:2288": {
+        "IResourceController": {
+            "name": "Dress LP",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648169443898999:1056170",
+            "fileId": "1675109573210085:2415",
+            "publicId": "1675109573210168:2478",
+            "expected_hash": "abb085bb78fb34e7d9addf36995f387f",
+            "additional": {
+                "externalBodyLink": [
+                    "1675109573210246:2552"
+                ],
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "3",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture1"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1648169443898999:1056170",
+            "name": "Files/File_1675109573210085_2415.mesh",
+            "flags": 1
+        }
+    },
+    "1675109573210085:2415": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210085_2415.mesh"
+        }
+    },
+    "1675109573210087:2416": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210087_2416.mesh"
+        }
+    },
+    "1675109573210168:2478": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Dress Low Poly/Dress LP.mesh",
+                "hash": "abb085bb78fb34e7d9addf36995f387f"
+            }
+        }
+    }
+}

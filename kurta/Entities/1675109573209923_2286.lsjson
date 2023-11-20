@@ -1,0 +1,42 @@
+{
+    "1675109573209923:2286": {
+        "IResourceController": {
+            "name": "Coat_Buttons",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1647408764256613:41937",
+            "fileId": "1675109573210082:2412",
+            "originalId": "1675109573210083:2413",
+            "publicId": "1675109573210176:2503",
+            "expected_hash": "d46c9a3a9de562489792fd3c0d75de5f",
+            "additional": {
+                "isUnpackedInPublic": "true"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1647408764256613:41937",
+            "name": "Files/File_1675109573210082_2412",
+            "flags": 1
+        }
+    },
+    "1675109573210082:2412": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210082_2412"
+        }
+    },
+    "1675109573210083:2413": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210083_2413.lsmat"
+        }
+    },
+    "1675109573210176:2503": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Coat_Buttons.lsmat",
+                "hash": "16496c80a7170d90218a8423e4dfdbee"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1647408715910944:27588": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675109573209923:2285": {
+        "IResourceController": {
+            "name": "ColliderSettingForChildObjects",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1647408715910944:27588",
+            "fileId": "1675109573210080:2411",
+            "publicId": "1675109573210167:2472",
+            "expected_hash": "ded9dcb70fc6f68f364426d32b5606c3"
+        },
+        "IResourceManager": {
+            "uid": "1647408715910944:27588",
+            "name": "Files/File_1675109573210080_2411.js",
+            "flags": 1
+        }
+    },
+    "1675109573210080:2411": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210080_2411.js"
+        }
+    },
+    "1675109573210167:2472": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ColliderSettingForChildObjects.js",
+                "hash": "ded9dcb70fc6f68f364426d32b5606c3"
+            }
+        }
+    }
+}

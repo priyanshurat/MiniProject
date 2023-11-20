@@ -1,0 +1,22 @@
+{
+    "1675109573210170:2485": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Collider Guides"
+            }
+        }
+    },
+    "1675109573210383:2561": {
+        "IResourceController": {
+            "name": "Collider Guides",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109573210170:2485",
+            "resources": [
+                "1675109573210383:2560"
+            ]
+        }
+    }
+}

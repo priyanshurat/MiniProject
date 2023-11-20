@@ -1,0 +1,50 @@
+{
+    "1693582136354804:26093": {
+        "IResourceController": {
+            "name": "Shalwar Kameez 7",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1693582150144578:26490",
+            "publicId": "1693582150365257:26495",
+            "expected_hash": "c6b006cde6784648b37a057a5e520bc9",
+            "resources": [
+                "1693582146666179:26301",
+                "1693582146763112:26318",
+                "1693582150044639:26467"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "true",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "FABRIC 1_FRONT_1119",
+                        "v": "1693582146781115:26322"
+                    }
+                ]
+            }
+        }
+    },
+    "1693582150144578:26490": {
+        "IFileManager": {
+            "path": "Files/File_1693582150144578_26490.fbx"
+        }
+    },
+    "1693582150365257:26495": {
+        "IResourceController": {
+            "public": {
+                "path": "shalwar-kameez-pakistani-dress-kurta-qamees/source/Shalwar Kamees/Shalwar Kamees/Shalwar Kameez 7.fbx",
+                "hash": "c6b006cde6784648b37a057a5e520bc9"
+            }
+        }
+    }
+}

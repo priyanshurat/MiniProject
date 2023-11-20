@@ -1,0 +1,39 @@
+{
+    "1693751830435074:15721": {
+        "IResourceController": {
+            "public": {
+                "path": "Leather_Fabric.lsmat",
+                "hash": "158550aef3a7c92331c44ec851bf72dd"
+            }
+        }
+    },
+    "1693751830693907:15741": {
+        "IFileManager": {
+            "path": "Files/File_1693751830693907_15741"
+        }
+    },
+    "1693751830697293:15742": {
+        "IResourceController": {
+            "name": "Leather_Fabric",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1693751830697297:15743",
+            "fileId": "1693751830693907:15741",
+            "originalId": "1693751830742946:15747",
+            "publicId": "1693751830435074:15721",
+            "expected_hash": "1b8f52e914fde170cce36056ae05e0e0"
+        },
+        "IResourceManager": {
+            "uid": "1693751830697297:15743",
+            "name": "Files/File_1693751830693907_15741",
+            "flags": 1
+        }
+    },
+    "1693751830742946:15747": {
+        "IFileManager": {
+            "path": "Files/File_1693751830742946_15747.lsmat"
+        }
+    }
+}

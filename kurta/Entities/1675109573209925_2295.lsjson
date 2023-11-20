@@ -1,0 +1,39 @@
+{
+    "1675109573209925:2295": {
+        "IResourceController": {
+            "name": "Hoodie",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648169623924679:1130271",
+            "fileId": "1675109573210099:2426",
+            "originalId": "1675109573210101:2427",
+            "publicId": "1675109573210175:2502",
+            "expected_hash": "5851e6705b6c482f12cbccf85a239fca"
+        },
+        "IResourceManager": {
+            "uid": "1648169623924679:1130271",
+            "name": "Files/File_1675109573210099_2426",
+            "flags": 1
+        }
+    },
+    "1675109573210099:2426": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210099_2426"
+        }
+    },
+    "1675109573210101:2427": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210101_2427.lsmat"
+        }
+    },
+    "1675109573210175:2502": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Hoodie.lsmat",
+                "hash": "d2af565be904bcba1936a46c08110793"
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1649988285078585:21865": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0f91d1b15fbc87f792b0d1ad166c73a4"
+                    },
+                    "v": "1675109573210146:2462"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "244537",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "836423",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675109573210126:2446"
+        }
+    },
+    "1675109573209927:2306": {
+        "IResourceController": {
+            "name": "hoodie_material_params",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1649988285078585:21865",
+            "fileId": "1675109573210123:2444",
+            "originalId": "1675109573210125:2445",
+            "publicId": "1675109573210179:2513",
+            "expected_hash": "3b4ce671cc408728ab76db06458b1976",
+            "additional": {
+                "originHash": "0f91d1b15fbc87f792b0d1ad166c73a4"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1649988285078585:21865",
+            "name": "Files/File3383.jpg",
+            "flags": 1
+        }
+    },
+    "1675109573210123:2444": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210123_2444.pvr"
+        }
+    },
+    "1675109573210125:2445": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210125_2445.png"
+        }
+    },
+    "1675109573210126:2446": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210126_2446.png"
+        }
+    },
+    "1675109573210146:2462": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210146_2462.pvr"
+        }
+    },
+    "1675109573210179:2513": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/hoodie_material_params.png",
+                "hash": "0f91d1b15fbc87f792b0d1ad166c73a4"
+            }
+        }
+    }
+}

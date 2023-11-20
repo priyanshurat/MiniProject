@@ -1,0 +1,23 @@
+{
+    "1675109573210168:2477": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Dress Low Poly"
+            }
+        }
+    },
+    "1675109573210256:2553": {
+        "IResourceController": {
+            "name": "Dress Low Poly",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109573210168:2477",
+            "resources": [
+                "1675109573209924:2287",
+                "1675109573209924:2288"
+            ]
+        }
+    }
+}

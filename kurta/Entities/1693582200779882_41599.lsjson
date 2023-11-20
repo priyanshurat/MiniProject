@@ -1,0 +1,24 @@
+{
+    "1693582200779882:41599": {
+        "IResourceController": {
+            "name": "Full Body Mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1693582200779869:41598",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1693582231571793_45412.extmesh"
+                ],
+                "externalBodyMapFileID": "1693582231571793:45412",
+                "externalBodyMapFilepath": "Files/File_1693582231571793_45412.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1693582200779869:41598",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

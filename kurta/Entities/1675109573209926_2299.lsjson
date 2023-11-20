@@ -1,0 +1,38 @@
+{
+    "1648229283497291:237709": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675109573209926:2299": {
+        "IResourceController": {
+            "name": "Behavior",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648229283497291:237709",
+            "fileId": "1675109573210107:2432",
+            "publicId": "1675109573210167:2474",
+            "expected_hash": "6c7932e0df736f27b30f10f3f9e17b49"
+        },
+        "IResourceManager": {
+            "uid": "1648229283497291:237709",
+            "name": "Files/File_1675109573210107_2432.js",
+            "flags": 1
+        }
+    },
+    "1675109573210107:2432": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210107_2432.js"
+        }
+    },
+    "1675109573210167:2474": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Behavior.js",
+                "hash": "6c7932e0df736f27b30f10f3f9e17b49"
+            }
+        }
+    }
+}

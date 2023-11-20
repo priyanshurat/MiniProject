@@ -1,0 +1,33 @@
+{
+    "1675109573209926:2298": {
+        "IResourceController": {
+            "name": "jellee_roman",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648229192296052:188971",
+            "fileId": "1675109573210105:2431",
+            "publicId": "1675109573210177:2508",
+            "expected_hash": "09438cae5178fea614cfd0b16e719824"
+        },
+        "IResourceManager": {
+            "uid": "1648229192296052:188971",
+            "name": "Files/File_1675109573210105_2431.ttf",
+            "flags": 1
+        }
+    },
+    "1675109573210105:2431": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210105_2431.ttf"
+        }
+    },
+    "1675109573210177:2508": {
+        "IResourceController": {
+            "public": {
+                "path": "Fonts/jellee_roman.ttf",
+                "hash": "09438cae5178fea614cfd0b16e719824"
+            }
+        }
+    }
+}

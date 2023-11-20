@@ -1,0 +1,23 @@
+{
+    "1675109573210170:2483": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Hoodie"
+            }
+        }
+    },
+    "1675109573210312:2559": {
+        "IResourceController": {
+            "name": "Hoodie",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109573210170:2483",
+            "resources": [
+                "1675109573209925:2294",
+                "1675109573209925:2296"
+            ]
+        }
+    }
+}

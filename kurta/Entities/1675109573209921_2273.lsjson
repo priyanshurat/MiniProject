@@ -1,0 +1,115 @@
+{
+    "1646797122331531:811881": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "204",
+                "compressedSize": "602",
+                "extension": "mesh",
+                "originalRAM": "204",
+                "originalSize": "602",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675109573210043:2388"
+        }
+    },
+    "1675109573209921:2273": {
+        "IResourceController": {
+            "name": "guide_spine2",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646797122331531:811881",
+            "fileId": "1675109573210042:2387",
+            "publicId": "1675109573210171:2488",
+            "expected_hash": "d15cd32a236fcec57aee783f94ddecfc",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646797122331531:811881",
+            "name": "Files/File_1675109573210042_2387.mesh",
+            "flags": 1
+        }
+    },
+    "1675109573210042:2387": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210042_2387.mesh"
+        }
+    },
+    "1675109573210043:2388": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210043_2388.mesh"
+        }
+    },
+    "1675109573210171:2488": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Collider Guides/Meshes/guide_spine2.mesh",
+                "hash": "d15cd32a236fcec57aee783f94ddecfc"
+            }
+        }
+    }
+}

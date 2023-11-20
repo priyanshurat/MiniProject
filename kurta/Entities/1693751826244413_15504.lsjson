@@ -1,0 +1,39 @@
+{
+    "1693751825992762:15483": {
+        "IResourceController": {
+            "public": {
+                "path": "Denim_Fabric.lsmat",
+                "hash": "437870104e40c4867f061c22d7662530"
+            }
+        }
+    },
+    "1693751826241626:15503": {
+        "IFileManager": {
+            "path": "Files/File_1693751826241626_15503"
+        }
+    },
+    "1693751826244413:15504": {
+        "IResourceController": {
+            "name": "Denim_Fabric",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1693751826244418:15505",
+            "fileId": "1693751826241626:15503",
+            "originalId": "1693751826289261:15509",
+            "publicId": "1693751825992762:15483",
+            "expected_hash": "8efc27ad61bd2f9892633a1707e2629b"
+        },
+        "IResourceManager": {
+            "uid": "1693751826244418:15505",
+            "name": "Files/File_1693751826241626_15503",
+            "flags": 1
+        }
+    },
+    "1693751826289261:15509": {
+        "IFileManager": {
+            "path": "Files/File_1693751826289261_15509.lsmat"
+        }
+    }
+}

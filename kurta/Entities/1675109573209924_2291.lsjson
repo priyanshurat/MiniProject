@@ -1,0 +1,42 @@
+{
+    "1675109573209924:2291": {
+        "IResourceController": {
+            "name": "Coat_Fabric",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648169541393000:1093294",
+            "fileId": "1675109573210091:2419",
+            "originalId": "1675109573210092:2420",
+            "publicId": "1675109573210176:2504",
+            "expected_hash": "b9dafe435b789e674494b90a4b26c467",
+            "additional": {
+                "isUnpackedInPublic": "true"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1648169541393000:1093294",
+            "name": "Files/File_1675109573210091_2419",
+            "flags": 1
+        }
+    },
+    "1675109573210091:2419": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210091_2419"
+        }
+    },
+    "1675109573210092:2420": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210092_2420.lsmat"
+        }
+    },
+    "1675109573210176:2504": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Coat_Fabric.lsmat",
+                "hash": "2e453ffbf11409725747c54e8dee1705"
+            }
+        }
+    }
+}

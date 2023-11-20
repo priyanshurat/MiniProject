@@ -1,0 +1,79 @@
+{
+    "1693582136098450:26063": {
+        "IFileManager": {
+            "path": "Files/File_1693582136098450_26063.pvr"
+        }
+    },
+    "1693582136119035:26064": {
+        "IResourceController": {
+            "name": "Shalwar Kameez 5",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1693582136119681:26065",
+            "fileId": "1693582136098450:26063",
+            "originalId": "1693582136120441:26070",
+            "publicId": "1693582136223006:26074",
+            "expected_hash": "6cca79c7082d66e5392f7643dc628a7f",
+            "additional": {
+                "originHash": "d95a457017487cedffb3dc3b9e99be5a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1693582136119681:26065",
+            "name": "Files/File_1693582136098450_26063.jpg",
+            "flags": 1
+        }
+    },
+    "1693582136119681:26065": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d95a457017487cedffb3dc3b9e99be5a"
+                    },
+                    "v": "1693582165795161:38171"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "231000",
+                "compressedSize": "47819",
+                "extension": "jpg",
+                "originalRAM": "1842400",
+                "originalSize": "18986",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1693582136153906:26073"
+        }
+    },
+    "1693582136120441:26070": {
+        "IFileManager": {
+            "path": "Files/File_1693582136120441_26070.jpg"
+        }
+    },
+    "1693582136153906:26073": {
+        "IFileManager": {
+            "path": "Files/File_1693582136153906_26073.jpg"
+        }
+    },
+    "1693582136223006:26074": {
+        "IResourceController": {
+            "public": {
+                "path": "shalwar-kameez-pakistani-dress-kurta-qamees/source/Shalwar Kamees/Shalwar Kamees/Shalwar Kameez 5.jpg",
+                "hash": "d95a457017487cedffb3dc3b9e99be5a"
+            }
+        }
+    },
+    "1693582165795161:38171": {
+        "IFileManager": {
+            "path": "Files/File_1693582165795161_38171.pvr"
+        }
+    }
+}

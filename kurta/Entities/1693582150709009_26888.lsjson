@@ -1,0 +1,30 @@
+{
+    "1693582150709009:26888": {
+        "IResourceController": {
+            "name": "Shalwar Kameez",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1693582150708901:26878",
+            "fileId": "1693582150778769:26899",
+            "originalId": "1693583249297353:122484",
+            "expected_hash": "2890228cdacb67c554b1001db1cff5c8"
+        },
+        "IResourceManager": {
+            "uid": "1693582150708901:26878",
+            "name": "Shalwar Kameez",
+            "flags": 0
+        }
+    },
+    "1693582150778769:26899": {
+        "IFileManager": {
+            "path": "Files/File_1693582150778769_26899.oprfb"
+        }
+    },
+    "1693583249297353:122484": {
+        "IFileManager": {
+            "path": "Files/File_1693583249297353_122484.oprfb"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1675109573210169:2480": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Coat"
+            }
+        }
+    },
+    "1675109573210299:2557": {
+        "IResourceController": {
+            "name": "Coat",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109573210169:2480",
+            "resources": [
+                "1675109573209924:2289",
+                "1675109573209924:2290",
+                "1675109573209925:2292",
+                "1675109573209925:2293"
+            ]
+        }
+    }
+}

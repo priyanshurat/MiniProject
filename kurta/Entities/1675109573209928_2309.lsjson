@@ -1,0 +1,79 @@
+{
+    "1649988286069445:21967": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "7475e8f08e530faece88deaf1f57f21d"
+                    },
+                    "v": "1675109573210147:2463"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "144851",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "190410",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675109573210137:2455"
+        }
+    },
+    "1675109573209928:2309": {
+        "IResourceController": {
+            "name": "trench_coat_AO",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1649988286069445:21967",
+            "fileId": "1675109573210135:2453",
+            "originalId": "1675109573210136:2454",
+            "publicId": "1675109573210179:2516",
+            "expected_hash": "4d7b7a244e49450c988ed25274a46174",
+            "additional": {
+                "originHash": "7475e8f08e530faece88deaf1f57f21d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1649988286069445:21967",
+            "name": "Files/File_1675109573210135_2453.jpg",
+            "flags": 1
+        }
+    },
+    "1675109573210135:2453": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210135_2453.jpg"
+        }
+    },
+    "1675109573210136:2454": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210136_2454.jpg"
+        }
+    },
+    "1675109573210137:2455": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210137_2455.jpg"
+        }
+    },
+    "1675109573210147:2463": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210147_2463.jpg"
+        }
+    },
+    "1675109573210179:2516": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/trench_coat_AO.jpg",
+                "hash": "7475e8f08e530faece88deaf1f57f21d"
+            }
+        }
+    }
+}

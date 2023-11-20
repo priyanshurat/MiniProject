@@ -1,0 +1,39 @@
+{
+    "1675109573209927:2302": {
+        "IResourceController": {
+            "name": "Debug Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648858487225832:732036",
+            "fileId": "1675109573210112:2436",
+            "originalId": "1675109573210113:2437",
+            "publicId": "1675109573210176:2505",
+            "expected_hash": "cbeefd5efa0752587d931d14797c0291"
+        },
+        "IResourceManager": {
+            "uid": "1648858487225832:732036",
+            "name": "Files/File_1675109573210112_2436",
+            "flags": 1
+        }
+    },
+    "1675109573210112:2436": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210112_2436"
+        }
+    },
+    "1675109573210113:2437": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210113_2437.lsmat"
+        }
+    },
+    "1675109573210176:2505": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Debug Material.lsmat",
+                "hash": "b7469430640470842535f7eeca4b8323"
+            }
+        }
+    }
+}

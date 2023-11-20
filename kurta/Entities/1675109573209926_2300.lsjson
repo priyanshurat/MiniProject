@@ -1,0 +1,24 @@
+{
+    "1675109573209926:2300": {
+        "IResourceController": {
+            "name": "Full Body Mesh Winter Dress HP",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648856637458868:291316",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File3306.extmesh"
+                ],
+                "externalBodyMapFileID": "1675109573210108:2433",
+                "externalBodyMapFilepath": "Files/File3306.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1648856637458868:291316",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

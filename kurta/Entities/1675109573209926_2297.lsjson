@@ -1,0 +1,38 @@
+{
+    "1648228968987468:129963": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675109573209926:2297": {
+        "IResourceController": {
+            "name": "ClothReset",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648228968987468:129963",
+            "fileId": "1675109573210104:2430",
+            "publicId": "1675109573210167:2473",
+            "expected_hash": "d0c505d3b59097f36c8797e34ce04134"
+        },
+        "IResourceManager": {
+            "uid": "1648228968987468:129963",
+            "name": "Files/File_1675109573210104_2430.js",
+            "flags": 1
+        }
+    },
+    "1675109573210104:2430": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210104_2430.js"
+        }
+    },
+    "1675109573210167:2473": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ClothReset.js",
+                "hash": "d0c505d3b59097f36c8797e34ce04134"
+            }
+        }
+    }
+}

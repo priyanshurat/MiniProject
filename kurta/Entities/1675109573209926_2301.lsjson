@@ -1,0 +1,39 @@
+{
+    "1675109573209926:2301": {
+        "IResourceController": {
+            "name": "Full Body Collider",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648857140437639:394007",
+            "fileId": "1675109573210109:2434",
+            "originalId": "1675109573210110:2435",
+            "publicId": "1675109573210178:2510",
+            "expected_hash": "7b371cb038c29b7c1d03c5fe784f8f89"
+        },
+        "IResourceManager": {
+            "uid": "1648857140437639:394007",
+            "name": "Full Body Collider",
+            "flags": 0
+        }
+    },
+    "1675109573210109:2434": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210109_2434.oprfb"
+        }
+    },
+    "1675109573210110:2435": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210110_2435.oprfb"
+        }
+    },
+    "1675109573210178:2510": {
+        "IResourceController": {
+            "public": {
+                "path": "Prefabs/Full Body Collider.oprfb",
+                "hash": "205eaf2389da332858000225f9fc9dc4"
+            }
+        }
+    }
+}

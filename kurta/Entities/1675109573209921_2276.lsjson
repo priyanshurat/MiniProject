@@ -1,0 +1,115 @@
+{
+    "1646797122503912:811942": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "204",
+                "compressedSize": "607",
+                "extension": "mesh",
+                "originalRAM": "204",
+                "originalSize": "607",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675109573210051:2394"
+        }
+    },
+    "1675109573209921:2276": {
+        "IResourceController": {
+            "name": "guide_hips",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646797122503912:811942",
+            "fileId": "1675109573210049:2393",
+            "publicId": "1675109573210172:2491",
+            "expected_hash": "543e59345630c0a60c745ea3d223bc44",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646797122503912:811942",
+            "name": "Files/File_1675109573210049_2393.mesh",
+            "flags": 1
+        }
+    },
+    "1675109573210049:2393": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210049_2393.mesh"
+        }
+    },
+    "1675109573210051:2394": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210051_2394.mesh"
+        }
+    },
+    "1675109573210172:2491": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Collider Guides/Meshes/guide_hips.mesh",
+                "hash": "543e59345630c0a60c745ea3d223bc44"
+            }
+        }
+    }
+}

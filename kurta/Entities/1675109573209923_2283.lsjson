@@ -1,0 +1,115 @@
+{
+    "1646797122885962:812071": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "204",
+                "compressedSize": "610",
+                "extension": "mesh",
+                "originalRAM": "204",
+                "originalSize": "610",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675109573210076:2408"
+        }
+    },
+    "1675109573209923:2283": {
+        "IResourceController": {
+            "name": "guide_foot_L",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646797122885962:812071",
+            "fileId": "1675109573210075:2407",
+            "publicId": "1675109573210174:2498",
+            "expected_hash": "51de9db7ed2c9174643a72471d52185a",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646797122885962:812071",
+            "name": "Files/File_1675109573210075_2407.mesh",
+            "flags": 1
+        }
+    },
+    "1675109573210075:2407": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210075_2407.mesh"
+        }
+    },
+    "1675109573210076:2408": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210076_2408.mesh"
+        }
+    },
+    "1675109573210174:2498": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Collider Guides/Meshes/guide_foot_L.mesh",
+                "hash": "51de9db7ed2c9174643a72471d52185a"
+            }
+        }
+    }
+}

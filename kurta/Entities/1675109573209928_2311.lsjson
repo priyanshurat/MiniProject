@@ -1,0 +1,79 @@
+{
+    "1649988287249150:22048": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c9ed2c5fb1a88d667e1272bab4d3eafd"
+                    },
+                    "v": "1675109573210152:2467"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "945",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "324",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675109573210145:2461"
+        }
+    },
+    "1675109573209928:2311": {
+        "IResourceController": {
+            "name": "dress_base_texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1649988287249150:22048",
+            "fileId": "1675109573210142:2459",
+            "originalId": "1675109573210143:2460",
+            "publicId": "1675109573210180:2518",
+            "expected_hash": "a46bf27c65b0866ea8a4444cf1d6b890",
+            "additional": {
+                "originHash": "c9ed2c5fb1a88d667e1272bab4d3eafd"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1649988287249150:22048",
+            "name": "Files/File3398.jpg",
+            "flags": 1
+        }
+    },
+    "1675109573210142:2459": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210142_2459.pvr"
+        }
+    },
+    "1675109573210143:2460": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210143_2460.png"
+        }
+    },
+    "1675109573210145:2461": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210145_2461.png"
+        }
+    },
+    "1675109573210152:2467": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210152_2467.pvr"
+        }
+    },
+    "1675109573210180:2518": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/dress_base_texture.png",
+                "hash": "c9ed2c5fb1a88d667e1272bab4d3eafd"
+            }
+        }
+    }
+}

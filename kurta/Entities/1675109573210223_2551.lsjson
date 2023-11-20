@@ -1,0 +1,22 @@
+{
+    "1675109573210168:2475": {
+        "IResourceController": {
+            "public": {
+                "path": "Body Assets"
+            }
+        }
+    },
+    "1675109573210223:2551": {
+        "IResourceController": {
+            "name": "Body Assets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675109573210168:2475",
+            "resources": [
+                "1675109573209918:2263"
+            ]
+        }
+    }
+}

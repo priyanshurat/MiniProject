@@ -1,0 +1,115 @@
+{
+    "1646797122275563:811866": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "204",
+                "compressedSize": "603",
+                "extension": "mesh",
+                "originalRAM": "204",
+                "originalSize": "603",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675109573210040:2386"
+        }
+    },
+    "1675109573209921:2272": {
+        "IResourceController": {
+            "name": "guide_neck",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1646797122275563:811866",
+            "fileId": "1675109573210039:2385",
+            "publicId": "1675109573210171:2487",
+            "expected_hash": "2165ab1cae92b212de6dee87976c7dbe",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1646797122275563:811866",
+            "name": "Files/File_1675109573210039_2385.mesh",
+            "flags": 1
+        }
+    },
+    "1675109573210039:2385": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210039_2385.mesh"
+        }
+    },
+    "1675109573210040:2386": {
+        "IFileManager": {
+            "path": "Files/File_1675109573210040_2386.mesh"
+        }
+    },
+    "1675109573210171:2487": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/Collider Guides/Meshes/guide_neck.mesh",
+                "hash": "2165ab1cae92b212de6dee87976c7dbe"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1693582135410494:26007": {
+        "IResourceController": {
+            "name": "shalwar-kameez-pakistani-dress-kurta-qamees",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1693582135411888:26008",
+            "resources": [
+                "1693582135418180:26009"
+            ]
+        }
+    },
+    "1693582135411888:26008": {
+        "IResourceController": {
+            "public": {
+                "path": "shalwar-kameez-pakistani-dress-kurta-qamees"
+            }
+        }
+    }
+}

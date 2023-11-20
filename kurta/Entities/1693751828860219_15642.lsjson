@@ -1,0 +1,39 @@
+{
+    "1693751828579845:15621": {
+        "IResourceController": {
+            "public": {
+                "path": "Knit_Fabric.lsmat",
+                "hash": "cb50301f15a068913b6208cb02b15a57"
+            }
+        }
+    },
+    "1693751828856990:15641": {
+        "IFileManager": {
+            "path": "Files/File_1693751828856990_15641"
+        }
+    },
+    "1693751828860219:15642": {
+        "IResourceController": {
+            "name": "Knit_Fabric",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1693751828860225:15643",
+            "fileId": "1693751828856990:15641",
+            "originalId": "1693751828910668:15647",
+            "publicId": "1693751828579845:15621",
+            "expected_hash": "f7715868498fa642b0e5836e5ad5c759"
+        },
+        "IResourceManager": {
+            "uid": "1693751828860225:15643",
+            "name": "Files/File_1693751828856990_15641",
+            "flags": 1
+        }
+    },
+    "1693751828910668:15647": {
+        "IFileManager": {
+            "path": "Files/File_1693751828910668_15647.lsmat"
+        }
+    }
+}

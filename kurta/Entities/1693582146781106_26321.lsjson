@@ -1,0 +1,39 @@
+{
+    "1693582146765046:26320": {
+        "IFileManager": {
+            "path": "Files/File_1693582146765046_26320"
+        }
+    },
+    "1693582146781106:26321": {
+        "IResourceController": {
+            "name": "FABRIC 1_FRONT_1119",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1693582146781115:26322",
+            "fileId": "1693582146765046:26320",
+            "originalId": "1693582146956966:26328",
+            "publicId": "1693582150376956:26497",
+            "expected_hash": "2cf7433f59bd0e35bfded6688680b3f9"
+        },
+        "IResourceManager": {
+            "uid": "1693582146781115:26322",
+            "name": "Files/File_1693582146765046_26320",
+            "flags": 1
+        }
+    },
+    "1693582146956966:26328": {
+        "IFileManager": {
+            "path": "Files/File_1693582146956966_26328.lsmat"
+        }
+    },
+    "1693582150376956:26497": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/shalwar-kameez-pakistani-dress-kurta-qamees/source/Shalwar Kamees/Shalwar Kamees/Shalwar Kameez 7/Materials/FABRIC 1_FRONT_1119.lsmat",
+                "hash": "ace8ce53ab8d5cd595c31d6963342705"
+            }
+        }
+    }
+}
